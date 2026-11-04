@@ -1,0 +1,24 @@
+# Original demonstration copy; photograph credited in media/README.md.
+title = "The shape of quiet"
+feed_link_title = "Colophon Journal"
+feed_link = "https://example.org/journal"
+preferred_link = "https://example.org/journal/the-shape-of-quiet"
+byline = "Notes on photography"
+datetime_long = "2026-11-04T09:00:00-08:00"
+date_medium = "Nov 4, 2026"
+external_link = "https://example.org/journal/the-shape-of-quiet"
+external_link_label = "Continue at Colophon Journal"
+body = '''
+<p>A river catches the last of the light. Beyond it, the mountains recede into a sky that seems almost too large for the frame.</p>
+<figure>
+  <img src="media/tetons.jpg" width="1280" height="1025" alt="A silver ribbon of river winds through a dark valley beneath the Teton Range and a cloud-filled sky.">
+  <figcaption>Ansel Adams · The Tetons and the Snake River, 1942. National Archives, public domain.</figcaption>
+</figure>
+<p>A monochrome photograph asks us to notice relationships: a pale curve against a dark field, the weight of a shadow, the small interval between one tone and the next. Without the distraction of color, these become the picture’s vocabulary.</p>
+<h2>A little room to look</h2>
+<p>The same is true of a page. Its margins give the words somewhere to breathe. Its rhythm lets the eye move naturally from a heading to a sentence, and from a sentence to an image.</p>
+<blockquote><p>Leave enough space for the ordinary to become extraordinary.</p></blockquote>
+<p>Good typography rewards attention quietly. A well-shaped letter, a comfortable line, a caption that sits just far enough beneath a photograph: each detail makes the act of reading a little more inviting.</p>
+<hr>
+<p>What remains is simple: <a href="https://example.org/notes">look closely</a>, read slowly, and let the light do its work.</p>
+'''

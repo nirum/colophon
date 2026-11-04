@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>ThemeIdentifier</key>
-	<string>com.example.starter</string>
+	<string>com.github.nirum.colophon</string>
 	<key>Name</key>
-	<string>Starter</string>
+	<string>Colophon</string>
 	<key>CreatorHomePage</key>
-	<string>https://example.com</string>
+	<string>https://github.com/nirum</string>
 	<key>CreatorName</key>
-	<string>Theme Author</string>
+	<string>nirum</string>
 	<key>Version</key>
 	<integer>1</integer>
 </dict>
