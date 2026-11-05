@@ -15,7 +15,7 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --canvas: #262525;
+    --canvas: #181818;
     --text: #d5d5d5;
     --heading: #f1f1f1;
     --muted: #a5a5a5;
