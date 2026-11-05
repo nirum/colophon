@@ -22,6 +22,10 @@
     --rule: #414141;
     --surface: #262626;
   }
+  /* NetNewsWire's iOS/iPadOS page shell includes a viewport meta tag. */
+  :root:has(> head > meta[name="viewport"]) {
+    --canvas: #000000;
+  }
 }
 html {
   background: var(--canvas);
