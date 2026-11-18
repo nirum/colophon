@@ -52,7 +52,7 @@ body { margin: 0; padding: 3.5rem 2rem 4rem; }
 .feed-icon { width: 1.45em; height: 1.45em; border-radius: 2px; flex: 0 0 auto; }
 h1, h2, h3, h4, h5, h6 { color: var(--heading); text-wrap: balance; }
 h1 {
-  font-size: clamp(2em, 5.2vw, 3.15em); font-weight: 500;
+  font-size: clamp(1.85em, 4.8vw, 2.9em); font-weight: 500;
   line-height: 1.14; letter-spacing: -.025em;
   margin: .48em 0 .52em;
 }
@@ -120,7 +120,7 @@ th { color: var(--heading); font-weight: 600; border-bottom-color: var(--muted);
 }
 @media (max-width: 600px) {
   body { padding: 1.8rem 1.25rem 2.5rem; }
-  h1 { font-size: 2.05em; line-height: 1.15; letter-spacing: -.02em; }
+  h1 { font-size: 1.9em; line-height: 1.15; letter-spacing: -.02em; }
   .article-header { margin-bottom: 1.8em; }
   blockquote { padding-left: 1em; font-size: 1.05em; }
 }
