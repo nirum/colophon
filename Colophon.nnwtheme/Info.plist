@@ -11,6 +11,10 @@
 	<key>CreatorName</key>
 	<string>nirum</string>
 	<key>Version</key>
-	<integer>1</integer>
+	<integer>2</integer>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 nirum</string>
 </dict>
 </plist>
